@@ -1,0 +1,108 @@
+body{
+    font-family:Montserrat ;
+}
+#head-text{
+    font-size: 50px;
+}
+#title{
+    background-color: #ff4c68;
+    color: #fff;
+}
+#header-tag{
+    font-size: 4rem;
+    font-family:"Montserrat-Black";
+    line-height: 1.5;
+    padding-bottom: 5rem;
+}
+#container-fluid{
+    padding: 3% 15%;
+}
+.navbar{
+    
+}
+.navbar-brand{
+    font-family: "Ubuntu";
+    font-weight: bold;
+    font-size: 25px;
+}
+.nav-item{
+    padding: 0 18px;
+}
+.title-image{
+    width:60%;
+    transform: rotate(25deg);
+    padding-top: 3rem;
+}
+/* features */
+
+#features{
+    padding: 7% 15%;
+}
+.feature-box{
+    text-align: center;
+    padding: 5%;
+
+}
+h3{
+
+ font-weight:bold;
+}
+.icon{
+    padding: 2%;
+    color: #ef8172;
+}
+/* testimonial */
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+#testimonials{
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #ef8172;
+    color: #fff;
+
+}
+.testimonial-image{
+    width: 15%;
+    border-radius:100%;
+    margin: 20px;
+
+}
+#press{
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+}
+.press-logo{
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+#pricing{
+    padding: 100px;
+}
+.card-body{
+    align-items: center;
+}
+
+#cta{
+    background-color: #ef8172;
+    color: #fff;
+    padding: 7% 15%;
+    text-align: center;
+
+}
+.cta-heading{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+#footer{
+    padding: 7% 15%;
+    text-align: center;
+}
+.soc-icon{
+    margin: 20px;
+}
